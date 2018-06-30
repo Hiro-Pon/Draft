@@ -97,9 +97,9 @@
 		CAD22F4220E72CAB007368AF /* Draft */ = {
 			isa = PBXGroup;
 			children = (
+				CAD22F7120E7308B007368AF /* Storyboards */,
 				CAD22F4320E72CAB007368AF /* AppDelegate.swift */,
 				CAD22F4520E72CAB007368AF /* ViewController.swift */,
-				CAD22F4720E72CAB007368AF /* Main.storyboard */,
 				CAD22F4A20E72CB4007368AF /* Assets.xcassets */,
 				CAD22F4C20E72CB4007368AF /* LaunchScreen.storyboard */,
 				CAD22F4F20E72CB4007368AF /* Info.plist */,
@@ -123,6 +123,14 @@
 				CAD22F6520E72CB5007368AF /* Info.plist */,
 			);
 			path = DraftUITests;
+			sourceTree = "<group>";
+		};
+		CAD22F7120E7308B007368AF /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				CAD22F4720E72CAB007368AF /* Main.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
