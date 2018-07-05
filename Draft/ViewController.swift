@@ -10,7 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var number = 0
+    var number = 1000
+    /*ƪ(•̃͡ε•̃͡)∫ƪ(•̃͡ε•̃͡)∫ƪ(•̃͡ε•̃͡)∫*/
     
     override func viewDidLoad() {
         super.viewDidLoad()
